@@ -14,7 +14,7 @@ const seccion5Click = document.querySelector("#seccion-5");
 
 botton.addEventListener("click", function(evento){
 
-  musica[0].volume(0.5);
+  musica[0].volume(1);
   musica[1].volume(0);
   musica[2].volume(0);
   musica[3].volume(0);
