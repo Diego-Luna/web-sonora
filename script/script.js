@@ -140,27 +140,27 @@ window.addEventListener('mousemove', mousemove);
 // function set_musica({volume1 = 0,volume2 = 0,volume3 = 0,volume4 = 0,volume5 = 0}) {
 function set_musica() {
   musica[0] = new Howl({
-    src: ['/assets/experiencia/1.mp3'],
+    src: ['./assets/experiencia/1.mp3'],
     autoplay: true,
     volume: 0,
   });
   musica[1] = new Howl({
-    src: ['/assets/experiencia/2.mp3'],
+    src: ['./assets/experiencia/2.mp3'],
     autoplay: true,
     volume: 0,
   });
   musica[2] = new Howl({
-    src: ['/assets/experiencia/3.mp3'],
+    src: ['./assets/experiencia/3.mp3'],
     autoplay: true,
     volume: 0,
   });
   musica[3] = new Howl({
-    src: ['/assets/experiencia/4.mp3'],
+    src: ['./assets/experiencia/4.mp3'],
     autoplay: true,
     volume: 0,
   });
   musica[4] = new Howl({
-    src: ['/assets/experiencia/5.mp3'],
+    src: ['./assets/experiencia/5.mp3'],
     autoplay: true,
     volume: 0,
   });
