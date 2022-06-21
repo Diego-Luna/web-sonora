@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "howler": "^2.2.3",
+    "ngx-howler": "^11.0.0"
+  }
+}
