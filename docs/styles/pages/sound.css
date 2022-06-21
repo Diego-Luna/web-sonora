@@ -145,6 +145,9 @@ h3{
 }
 .equipo-name p{
   width: 100%;
-  font-size: 1.35em;
+  font-size: 1.1em;
   text-align: left;
+}
+.equipo-name p b{
+  font-size: 1.35em;
 }
